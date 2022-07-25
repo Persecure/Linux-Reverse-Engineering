@@ -1,7 +1,7 @@
 Linux Reverse Engineering : 1
 https://crackmes.one/crackme/5da31ebc33c5d46f00e2c661
 
-https://persecure.files.wordpress.com/2022/07/image-164.png?w=1004
+
 
 Download and unzip the file (pw : crackmes.one)
 
