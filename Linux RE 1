@@ -1,0 +1,42 @@
+Linux Reverse Engineering : 1
+https://crackmes.one/crackme/5da31ebc33c5d46f00e2c661
+
+https://persecure.files.wordpress.com/2022/07/image-164.png?w=1004
+
+Download and unzip the file (pw : crackmes.one)
+
+Use the file command determine what kind of file it is.
+
+
+ELF is a common standard file format for executable files.
+Execute the file.
+
+
+Use the strings command to display printable strings in [file(s)] (stdin by default)
+
+
+Start up Ghidra and analyze the file. Search for the main function in Symbol tree.
+
+
+
+local_14 = input
+
+iVarl = input will be save to this variable
+
+validate_key = function use to check the right input
+
+Let’s analyze the validate_key function.
+
+
+param_1 = local_14 = input
+
+0x4c7 (HEX) = 1223 (Decimal)
+
+validate_key(param_1) 
+ {
+           return praram_1 % 1223 == 0;
+}
+Key will be 1223 , or any multiple of 1223 , or 0
+
+Let’s test out the key.
+
