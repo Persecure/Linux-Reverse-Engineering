@@ -4,7 +4,7 @@ https://crackmes.one/crackme/5fca1e7933c5d424269a1a68
 
 ![image](https://user-images.githubusercontent.com/93418272/180906840-0bcc0d4b-14c9-4a6b-ae72-74c0480507dd.png)
 
-# File is an executable
+** File is an executable
 
 # Find strings in the file.
 
