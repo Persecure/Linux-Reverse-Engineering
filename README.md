@@ -6,6 +6,8 @@ Linux RE 2 : Read the source code to find the password
 
 Linux RE 3 : Reverse enginner hex to text to find the password
 
-MalwareTech challenge
+MalwareTech Challenge
+
+TryHackMe Reversing ELF room
 
 Windows RE 1 : Find the DOB
