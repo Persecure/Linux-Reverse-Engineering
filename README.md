@@ -21,3 +21,5 @@ picoCTF RE 1
 picoCTF RE 2
 
 picoCTF RE 3 : Reading java source code
+
+HTB Reverse Engineering challenge : WIDE
