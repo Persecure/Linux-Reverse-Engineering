@@ -16,6 +16,8 @@ TryHackMe Reversing ELF room
 
 Windows RE 1 : Find the DOB
 
+Windows RE 2 : dajoh's CrackMe1
+
 picoCTF RE 1
 
 picoCTF RE 2
